@@ -1,0 +1,10 @@
+    
+body{
+    text-align: center;
+}
+button{
+        margin-left:20px ;
+        font-size: 22px;
+        border-radius: 64px 48px 16px 96px;
+        background-color: blanchedalmond;
+}
